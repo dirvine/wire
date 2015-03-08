@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SizeLimit","`bincode` is a crate for encoding and decoding using a tiny binary serialization strategy."]],"mod":[["tcp",""]]});

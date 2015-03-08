@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RefBox","A struct for encoding nested reference types."]]});

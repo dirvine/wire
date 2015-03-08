@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ReaderBytesExt","Extends `Reader` with methods for reading numbers. (For `std::old_io`.)"],["WriterBytesExt","Extends `Writer` with methods for writing numbers. (For `std::old_io`.)"]]});
